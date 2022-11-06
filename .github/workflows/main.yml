@@ -1,6 +1,6 @@
 name: Automated API tests for twitter
 
-on: push
+on: workflow_dispatch
 
 jobs:
   automated-api-tests:
